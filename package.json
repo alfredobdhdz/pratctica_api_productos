@@ -9,7 +9,7 @@
   "author": "Alfredo Bobadilla Hernández",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.3.0",
     "mongoose": "^5.8.1",
     "morgan": "^1.9.1"
